@@ -6,6 +6,24 @@
 
 I build full-stack applications, developer tools, and security-focused projects.
 
+---
+
+## 🚀 What I'm Building
+
+### ☁️ CloudPilot
+A deployment platform designed to make application deployment simpler for developers.
+
+**Stack:** React · Node.js · PostgreSQL · Supabase · Docker
+
+### 🛡️ Vulnx
+A security-focused project built around vulnerability discovery and security tooling.
+
+**Stack:** JavaScript
+
+### 🎨 Personal Portfolio
+A modern interactive portfolio built with animations and a multilingual intro experience.
+
+**Stack:** React · Vite · GSAP · Framer Motion
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
