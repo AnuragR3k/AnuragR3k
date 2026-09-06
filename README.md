@@ -1,6 +1,6 @@
 <div align="center">
 
-# ANURAG R3K
+# ANURAG
 
 ### Software Developer · Builder · Open Source Contributor
 
