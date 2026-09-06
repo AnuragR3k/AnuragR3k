@@ -1,41 +1,84 @@
-<div align="center">
+# Hi 👋, I'm Anurag
 
-# ANURAG
+### Software Developer · Cybersecurity Enthusiast · Builder
 
-### Software Developer · Builder · Open Source Contributor
+- 🚀 Currently building **CloudPilot**, a deployment platform for developers
+- 💻 Full-stack developer working with **JavaScript, TypeScript, React & Node.js**
+- 🛡️ Interested in **Cybersecurity, DevOps & Cloud**
+- 🌱 Learning by building projects and contributing to **Open Source**
+- 🔧 Currently contributing to **OpsiMate**
+- 🎮 Gamer when I'm not coding
+- ⛰️ You'll probably find me somewhere in the mountains when I'm away from the keyboard
 
-I build full-stack applications, developer tools, and security-focused projects.
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.anuragdev.dpdns.org/)
 
 ---
 
 ## 🚀 What I'm Building
 
 ### ☁️ CloudPilot
+
 A deployment platform designed to make application deployment simpler for developers.
 
 **Stack:** React · Node.js · PostgreSQL · Supabase · Docker
 
 ### 🛡️ Vulnx
+
 A security-focused project built around vulnerability discovery and security tooling.
 
 **Stack:** JavaScript
 
 ### 🎨 Personal Portfolio
+
 A modern interactive portfolio built with animations and a multilingual intro experience.
 
 **Stack:** React · Vite · GSAP · Framer Motion
 
 ---
 
+## 🤝 Open Source
+
+Currently contributing to open-source projects and learning how real-world codebases work.
+
+### 🔧 OpsiMate
+
+Contributed a fix for **Dashboard Search Keyboard Navigation**.
+
+- ⌨️ Arrow Up / Down navigation
+- ↵ Enter to select suggestions
+- ⎋ Escape to close suggestions
+- ♿ Improved keyboard accessibility
+- 🔗 Issue: #883
+
+---
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vite,postgres,supabase,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vite,postgres,supabase,docker,git,github,linux,gsap,framer" />
 </p>
-<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+---
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.anuragdev.dpdns.org/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnuragR3k)
+
+</p>
+
+---
+
+<div align="center">
+
+### "Build. Break. Learn. Repeat."
 
 </div>
