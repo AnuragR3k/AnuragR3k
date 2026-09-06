@@ -6,7 +6,6 @@
 - 💻 Full-stack developer working with **JavaScript, TypeScript, React & Node.js**
 - 🛡️ Interested in **Cybersecurity, DevOps & Cloud**
 - 🌱 Learning by building projects and contributing to **Open Source**
-- 🔧 Currently contributing to **OpsiMate**
 - 🎮 Gamer when I'm not coding
 - ⛰️ You'll probably find me somewhere in the mountains when I'm away from the keyboard
 
