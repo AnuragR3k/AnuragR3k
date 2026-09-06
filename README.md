@@ -41,17 +41,6 @@ A modern interactive portfolio built with animations and a multilingual intro ex
 
 Currently contributing to open-source projects and learning how real-world codebases work.
 
-### 🔧 OpsiMate
-
-Contributed a fix for **Dashboard Search Keyboard Navigation**.
-
-- ⌨️ Arrow Up / Down navigation
-- ↵ Enter to select suggestions
-- ⎋ Escape to close suggestions
-- ♿ Improved keyboard accessibility
-- 🔗 Issue: #883
-
----
 
 ## 🛠️ Languages & Tools
 
