@@ -24,6 +24,14 @@ A security-focused project built around vulnerability discovery and security too
 A modern interactive portfolio built with animations and a multilingual intro experience.
 
 **Stack:** React · Vite · GSAP · Framer Motion
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vite,postgres,supabase,docker,git,github,linux" />
+</p>
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
