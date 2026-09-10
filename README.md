@@ -10,6 +10,9 @@
 - ⛰️ You'll probably find me somewhere in the mountains when I'm away from the keyboard
 
 <br />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&center=true&vCenter=true&width=400&lines=Keep+building.+Keep+learning.+%F0%9F%9A%80" />
+</p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.anuragdev.dpdns.org/)
 
