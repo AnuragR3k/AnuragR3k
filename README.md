@@ -44,6 +44,20 @@ A modern interactive portfolio built with animations and a multilingual intro ex
 
 Currently contributing to open-source projects and learning how real-world codebases work.
 
+## Currently Building
+
+I’m exploring open-source development, developer tooling, and practical software projects.
+
+This year, I’m focusing on:
+
+- 🧩 Contributing to open-source projects
+- ⚙️ Building useful developer tools
+- ☁️ Learning more about cloud and deployment systems
+- 🤖 Experimenting with AI-powered workflows
+- 🚀 Shipping small improvements consistently
+
+> Build. Break. Learn. Repeat.
+
 
 ## 🛠️ Languages & Tools
 
