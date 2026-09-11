@@ -6,7 +6,7 @@
 - 💻 Full-stack developer working with **JavaScript, TypeScript, React & Node.js**
 - 🛡️ Interested in **Cybersecurity, DevOps & Cloud**
 - 🌱 Learning by building projects and contributing to **Open Source**
-- 🎮 Gamer when I'm not coding
+- 🎮 Gamer when I'm not coding , valo top 2k
 - ⛰️ You'll probably find me somewhere in the mountains when I'm away from the keyboard
 
 <br />
