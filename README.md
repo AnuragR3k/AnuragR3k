@@ -59,6 +59,15 @@ This year, I’m focusing on:
 > Build. Break. Learn. Repeat.
 
 
+## ⚡ Currently Building
+
+> Turning ideas into code, one commit at a time.
+
+- 🛠️ Building and improving personal projects
+- 🌐 Exploring open-source contributions
+- 🔐 Learning more about cybersecurity
+- ☁️ Experimenting with cloud & deployment
+
 ## 🛠️ Languages & Tools
 
 <p align="left">
