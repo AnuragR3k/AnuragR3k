@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anurag
 
-### Software Developer · Cybersecurity Enthusiast · Builder
+### Software Developer · Cybersecurity Enthusiast · Builder · Gamer
 
 - 🚀 Currently building **CloudPilot**, a deployment platform for developers
 - 💻 Full-stack developer working with **JavaScript, TypeScript, React & Node.js**
