@@ -8,7 +8,7 @@
 - 🌱 Learning by building projects and contributing to **Open Source**
 - 🎮 Gamer when I'm not coding , valo top 2k
 - ⛰️ You'll probably find me somewhere in the mountains when I'm away from the keyboard
-
+- Trying Harder Every Time
 <br />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&center=true&vCenter=true&width=400&lines=Keep+building.+Keep+learning.+%F0%9F%9A%80" />
