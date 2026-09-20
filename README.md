@@ -73,8 +73,6 @@ Email :- anuragraghatwan8@gmail.com
 
 <p align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.anuragdev.dpdns.org/)
-
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnuragR3k)
 
 </p>
