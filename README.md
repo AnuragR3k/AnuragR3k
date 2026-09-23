@@ -8,6 +8,7 @@
 - 🌱 Learning by building projects and contributing to **Open Source**
 - 🎮 Gamer when I'm not coding , valo top 2k
 - ⛰️ You'll probably find me somewhere in the mountains when I'm away from the keyboard
+- Trying Harder Everytime
  
 <br />
 <p align="center">
