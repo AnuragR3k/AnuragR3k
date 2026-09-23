@@ -68,15 +68,7 @@ Currently contributing to open-source projects and learning how real-world codeb
 
 ---
 
-## 🌐 Connect With Me
-
-Email :- anuragraghatwan8@gmail.com
-
-<p align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnuragR3k)
-
-</p>
+ 
 
 ---
 
