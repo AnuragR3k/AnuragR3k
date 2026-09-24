@@ -1,79 +1,153 @@
-# Hi 👋, I'm Anurag
+"anurag@github:~$"
 
-### Software Developer · Cybersecurity Enthusiast · Builder · Gamer
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗      │
+│  ██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝      │
+│  ███████║██╔██╗ ██║██║   ██║██████╔╝███████║██║           │
+│  ██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║           │
+│  ██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚██████╗      │
+│  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝      │
+│                                                             │
+│   FULL STACK  ×  CYBERSECURITY  ×  AI                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-- 🚀 Currently building **CloudPilot**, a deployment platform for developers
-- 💻 Full-stack developer working with **JavaScript, TypeScript, React & Node.js**
-- 🛡️ Interested in **Cybersecurity, DevOps & Cloud**
-- 🌱 Learning by building projects and contributing to **Open Source**
-- 🎮 Gamer when I'm not coding , valo top 2k
-- ⛰️ You'll probably find me somewhere in the mountains when I'm away from the keyboard
-- Trying Harder Everytime
- 
-<br />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&center=true&vCenter=true&width=400&lines=Keep+building.+Keep+learning.+%F0%9F%9A%80" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Developer;Cybersecurity+Enthusiast;Builder+%7C+Gamer+%7C+Open+Source;Turning+ideas+into+working+software" />
+</p><p align="center">
+  <a href="https://www.anuragdev.dpdns.org/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00FF9C?style=for-the-badge&logoColor=black" />
+  </a>
+  <a href="https://github.com/AnuragR3k">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.anuragdev.dpdns.org/)
+"> whoami"
 
----
+Anurag
 
-## 🚀 What I'm Building
+Software Developer
+Cybersecurity Enthusiast
+Builder
+Gamer
 
-### ☁️ CloudPilot
+I like taking an idea from:
 
-A deployment platform designed to make application deployment simpler for developers.
+    "this could be cool"
 
-**Stack:** React · Node.js · PostgreSQL · Supabase · Docker
+to:
 
-### 🛡️ Vulnx
+    "wait... it actually works."
 
-A security-focused project built around vulnerability discovery and security tooling.
-
-**Stack:** JavaScript
-
-### 🎨 Personal Portfolio
-
-A modern interactive portfolio built with animations and a multilingual intro experience.
-
-**Stack:** React · Vite · GSAP · Framer Motion
-
----
-
-## 🤝 Open Source
-
-Currently contributing to open-source projects and learning how real-world codebases work.
-
-
-
-
-## ⚡ Currently Building
-
-> Turning ideas into code, one commit at a time.
-
-- 🛠️ Building and improving personal projects
-- 🌐 Exploring open-source contributions
-- 🔐 Learning more about cybersecurity
-- ☁️ Experimenting with cloud & deployment
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,vite,postgres,supabase,docker,git,github,linux,gsap,framer" />
-</p>
+- 🚀 Currently building CloudPilot
+- 💻 Full-stack development with JavaScript, TypeScript, React & Node.js
+- 🛡️ Exploring Cybersecurity, DevOps & Cloud
+- 🤝 Contributing to Open Source
+- 🎮 Valorant grinder · Top 2K
+- ⛰️ Sometimes disappearing into the mountains
+- 🔥 Trying harder every time
 
 ---
 
+"> currently_building"
+
+☁️ CloudPilot
+
+«A deployment platform designed to make application deployment simpler for developers.»
+
+Frontend    → React
+Backend     → Node.js
+Database    → PostgreSQL
+Platform    → Supabase
+Infra       → Docker
 
 ---
 
- 
+🛡️ VulnX
+
+«Security-focused tooling for vulnerability discovery and OSINT.»
+
+Security    → Vulnerability Discovery
+Focus       → OSINT + Security Tooling
 
 ---
 
-<div align="center">
+⚽ VAR-AI
 
-### "Build. Break. Learn. Repeat."
+«Exploring AI-assisted football video analysis using computer vision.»
 
-</div>
+Python · OpenCV · YOLO · PyTorch
+Computer Vision · Object Detection · Tracking
+
+---
+
+"> tech_stack"
+
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,html,css,vite,tailwind,postgres,supabase,docker,git,github,linux,aws,flask,fastapi,opencv,pytorch" /></p>---
+
+"> currently_learning"
+
+┌─────────────────────────────────────────┐
+│ ☁ Cloud & DevOps                        │
+│ 🔐 Security Engineering                 │
+│ 🤖 AI & Computer Vision                 │
+│ 🐳 Docker & Infrastructure              │
+│ 🧠 System Design                        │
+│ 🌐 Open Source                          │
+└─────────────────────────────────────────┘
+
+---
+
+"> open_source"
+
+I enjoy exploring real-world codebases, contributing where I can,
+and learning how software works beyond the tutorial bubble.
+
+$ git clone something-interesting
+$ cd something-interesting
+$ npm install
+$ npm run dev
+
+# break it
+# understand it
+# fix it
+# submit PR
+
+---
+
+"> github_stats"
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragR3k&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragR3k&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnuragR3k&theme=github-dark-blue&hide_border=true" />
+</p>---
+
+"> featured"
+
+<p align="center"><a href="https://github.com/AnuragR3k/CloudPilot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragR3k&repo=CloudPilot&theme=github_dark&hide_border=true" />
+</a><a href="https://github.com/AnuragR3k/vulnx">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AnuragR3k&repo=vulnx&theme=github_dark&hide_border=true" />
+</a></p>---
+
+"> beyond_code"
+
+🎮 Valorant
+⛰️ Mountains
+☕ Probably debugging something
+🌙 Coding at questionable hours
+
+---
+
+<p align="center">$ git status
+
+building something...
+
+
+"Build. Break. Learn. Repeat."
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=500&lines=keep+building.;keep+learning.;keep+shipping.+" /></p>
