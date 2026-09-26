@@ -2,7 +2,7 @@
 
 <p align="center">
 
-### Software Developer · Cybersecurity · AI · Builder
+### Software Developer · Cybersecurity · AI · Builder · Gamer
 
 </p>
 
