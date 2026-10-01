@@ -35,7 +35,7 @@ to:
 - 💻 Full-stack developer
 - 🛡️ Exploring Cybersecurity, DevOps & Cloud
 - 🤝 Exploring Open Source
-- 🎮 Valorant · Top 2K
+- 🎮 Valorant · Top 2K Asia Ranking 
 - ⛰️ Mountains > cities sometimes
 - 🔥 Trying harder every time
 
