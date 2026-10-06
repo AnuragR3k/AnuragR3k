@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="assets/less.jpeg" width="100%">
+  <img src="./less.jpeg" width="100%">
 </p>
 
-<h3 align="center">i larp · i code · i play games</h3>
+<p align="center">
+  <b>i larp · i code · i play games</b>
+</p>
 
 <p align="center">
-  sometimes i build things. sometimes they work.
+  build stuff · break stuff · learn stuff
 </p>
 
 <p align="center">
