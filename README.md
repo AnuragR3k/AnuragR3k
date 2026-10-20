@@ -8,6 +8,8 @@
 
 <p align="center">
   build stuff · break stuff · learn stuff
+
+  Trying Harder Every Time
 </p>
 
 <p align="center">
