@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  build stuff · break stuff · learn stuff
-
-trying harder every time
+  build stuff · break stuff · learn stuf
 
 
 </p>
