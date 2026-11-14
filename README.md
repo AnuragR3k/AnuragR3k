@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="./less.jpeg" width="60%">
-</p>
+
 
 <p align="center">
-  <b>i larp · i code · i play games(mostly valo)</b>
+  <b>i larp · i code · i play game/b>
 </p>
 
 <p align="center">
