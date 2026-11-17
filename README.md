@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <b>i larp · i code · i play game/b>
+  <b>i larp · i code · i play game(mostly valo)</b>
 </p>
 
 <p align="center">
