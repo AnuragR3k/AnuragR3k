@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>i larp · i code · i play game(mostly valo)</b>
-  trying harder every time
 </p>
 
 <p align="center">
